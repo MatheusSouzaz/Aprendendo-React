@@ -1,7 +1,6 @@
 
-import './App.css';
 import Paragraph from './components/paragrafo/paragrafo';
-import ButtonLabel from './components/button/Button';
+import ButtonLabel from './components/alertButton/Button';
 import Container from './components/container/container'
 
 
